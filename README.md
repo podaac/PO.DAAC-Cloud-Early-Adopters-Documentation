@@ -23,10 +23,7 @@ For more details on the program, including roles and responsabilities of the Ear
 ### Point of Contact
 
 Catalina Oaida, PhD
-
 PODAAC Cloud Engagement
-
-Science User Services Engineer
-
+Applied Science System Engineer
 catalina.oaida@jpl.nasa.gov
 
